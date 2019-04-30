@@ -1,0 +1,138 @@
+page-home {
+    .ion-content{
+      background-color: $cian-ligth !important;
+    }
+
+    .positionContainer {
+      text-align: center;
+    }
+
+    .address {
+      text-align: center;
+      padding: 10px;
+      margin: 5px 5px 15% 5px;
+      font-size: 1.8em;
+      color: red;
+      font-weight: 400;
+      height: 45px;
+    }
+
+    agm-map {
+      height: 50vh;
+      .agm-map-container-inner
+      {
+        // -webkit-box-shadow: 10px 10px 48px -20px rgba(128,128,128,1);
+        // -moz-box-shadow: 10px 10px 48px -20px rgba(128,128,128,1);
+        // box-shadow: 10px 10px 48px -20px rgba(128,128,128,1);
+        border: 1px solid #cacaca;
+        border-radius: 10px;
+      }
+    }
+
+    ion-content{
+        button {
+            padding: 13px;
+            width: 100%;
+            margin-top: 5%;
+            border-radius: 5px;
+            background-color: white;
+            font-size: 20px;
+            color: #4ca7f3;
+            position: relative;
+            border: 1px solid #4ca7f3;
+            font-weight: 500;
+            -webkit-box-shadow: 10px 10px 17px -13px rgba(67,156,241,1);
+            -moz-box-shadow: 10px 10px 17px -13px rgba(67,156,241,1);
+            box-shadow: 10px 10px 17px -13px rgba(67,156,241,1);
+
+            .position-icon{
+              position: absolute;
+              top: 0;
+              right: 85%;
+              height: 51px;
+              width: 44px;
+              background-position: center;
+              background-repeat: no-repeat;
+              background-size: contain;
+            }
+
+            .waze-icon{
+              background-image: url(../../assets/imgs/waze.png);
+            }
+
+            .gm-icon{
+              background-image: url(../../assets/imgs/gm.png);
+            }
+          }
+    }
+
+
+    ::-webkit-scrollbar,
+    *::-webkit-scrollbar {
+        display: none;
+    }
+
+    .noLocation{
+      text-align: center;
+      color: #439cf1;
+      margin-top: 10%;
+
+      span{
+        font-size: 35px;
+        font-weight: 300;
+        color: white;
+      }
+
+      .notAdress{
+        height: 230px;
+        width: 100%;
+        background-image: url(../../assets/imgs/noLocation.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+      }
+    }
+
+    //fade in fade out
+
+    .fadeOut{
+      -webkit-animation: fadeOut 4s infinite; /* Safari 4.0 - 8.0 */
+      animation: fadeOut 4s infinite;
+    }
+
+    @-webkit-keyframes fadeIn {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+
+    @-webkit-keyframes fadeOut {
+        from {
+            opacity: 1;
+        }
+        to {
+            opacity: 0;
+        }
+    }
+
+    @keyframes fadeOut {
+        from {
+            opacity: 1;
+        }
+        to {
+            opacity: 0;
+        }
+    }
+}

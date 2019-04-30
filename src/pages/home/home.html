@@ -1,0 +1,55 @@
+<ion-header>
+  <ion-navbar hideBackButton>
+
+    <ion-title>
+      URG Maps
+    </ion-title>
+
+    <button ion-button  menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+
+  </ion-navbar>
+</ion-header>
+
+<!-- <ion-content padding  #mycontent [ngClass]="{'ion-content': idMobile == ''}"> -->
+<ion-content padding  #mycontent >
+  <!-- <div *ngIf="idMobile === deviceID" > -->
+  <!-- <div *ngIf="idMobile != ''" > -->
+  <div>
+
+      <div class="address" [ngClass]="animationTitle? 'fadeOut' : 'stop-animation'">
+        {{address}}
+
+      </div>
+
+      <!-- <agm-map [latitude]="lat" [longitude]="lng">
+
+        <agm-direction
+          [origin]="origin"
+          [destination]="destination"
+
+          [renderOptions]="renderOptions"
+          [markerOptions]="markerOptions"
+        >
+        </agm-direction>
+
+      </agm-map> -->
+
+      <!-- <button (click)="getUpdateState()">IR con Google Maps <div class="position-icon gm-icon"></div></button> -->
+      <button (click)="getUpdateState('google')">IR con Google Maps <div class="position-icon gm-icon"></div></button>
+      <button (click)="getUpdateState('waze')">IR con WAZE <div class="position-icon waze-icon"></div></button>
+      <!-- <button (click)="showData()">Mostrar Datos </button> -->
+  </div>
+
+  <!-- <div *ngIf="idMobile !== deviceID" class="noLocation"> -->
+  <!-- <div *ngIf="idMobile == ''" class="noLocation">
+
+    <span>Usted no </span><br>
+    <span>posee</span><br>
+    <span>Notificaciones</span>
+
+    <div class="notAdress"></div>
+
+  </div> -->
+</ion-content>

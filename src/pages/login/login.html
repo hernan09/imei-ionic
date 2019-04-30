@@ -1,0 +1,58 @@
+<div class="login" >
+  <div class="contain-logo"  [ngClass]="showHeaderLogin? '' : 'hide-login'" >
+
+    <div class="logo" >
+      <span>MAPS</span>
+    </div>
+
+  </div>
+
+  <form  [formGroup]="loginForm" (ngSubmit)="onSubmit()" class="container-form" novalidate>
+
+    <!-- <input name="userName" type="text" [(ngModel)]="name" formControlName="firstName" required> --> 
+    <div>
+      <span class="input input--haruki" [ngClass]="showInputAniamtion? 'animation-input-data': 'animation-input-data-null'">
+        <ion-icon name="contact"></ion-icon>
+
+        <input class="input__field input__field--haruki " name="userName" type="text" id="input-1" (focus)="focusShowHeaderLogin(showHeaderLogin)" (blur)="inputAnimation()"  [(ngModel)]="name"   formControlName="firstName" required/>
+
+        <label class="input__label input__label--haruki" for="input-1">
+          <span class="input__label-content input__label-content--haruki">Usuario</span>
+        </label>
+      </span>
+    </div>
+
+    <div>
+      <span class="input input--haruki" [ngClass]="showInputAniamtionPass? 'animation-input-data': 'animation-input-data-null'">
+        <ion-icon ios="ios-lock" md="md-lock"></ion-icon>
+
+        <input class="input__field input__field--haruki " name="password" type="password" id="input-2" (focus)="focusShowHeaderLogin(showHeaderLogin)" (blur)="inputAnimation()"  [(ngModel)]="pass" formControlName="lastName" required/>
+
+        <label class="input__label input__label--haruki" for="input-2">
+          <span class="input__label-content input__label-content--haruki">Contraseña</span>
+        </label>
+      </span>
+    </div>
+
+    <p [ngClass]="validation? 'add-height-message': ''" class="messageValidation">{{messageValidationUser}}</p>
+
+    <div class="box-btn">
+      <button type="submit" name="button" [disabled]="loginForm.status === 'INVALID'" >INICIAR</button>
+    </div>
+
+  </form>
+</div>
+
+<div class="loader"  [hidden]="!shwoLoading">
+  <div class="container-loading">
+
+    <h1>
+      <span class="green">U</span><span class="cian">R</span><span class="blue">G</span>
+    </h1>
+
+    <h5>Loading</h5>
+
+    <div class="background"></div>
+
+  </div>
+</div>

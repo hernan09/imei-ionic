@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [:tbxml-android:] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/tbxml-android.aar/7f8065ab9614b31b6c84fe61fdc90801/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/623a79cb2273cdc816411b75221ca1fa/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/195357de4de7bc189e04dfd0f10e1055/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd780cb6535200de5268d7bde44c5b3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f92e69a8a4c6520141e6b3e954ea9de3/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/95be751dcc3c0f2b32f74be293637f4b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/99c878fc5b53d2cf1eb963b4e0cb12d1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5600f233132db7fbd07a2421671c0f22/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0ca2015f6190472196c73c7ff525ec31/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0a2dcf0471daebde59c31c7217c5422f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/920cf90239981d28cc056b4cc675268b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b16d4247416d6a189e7a6c5ceb871287/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/798e867137746d03767aeb5af57f2043/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05254bbdee027846350d3a3d3cd4a6d1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/40cea6cd0c883744908ceeb0ff7eb7c6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:27.1.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dd3e746e2de53026dce3bb218abadd34/AndroidManifest.xml:17:1-22:12
+MERGED from [:CordovaLib] /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cc4a39a0082e2ea39b47684666635ba1/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:2:98-124
+		INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:2:70-97
+		INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:2:125-183
+	android:versionCode
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:2:46-69
+		INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/623a79cb2273cdc816411b75221ca1fa/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/623a79cb2273cdc816411b75221ca1fa/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:5:5-14:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/623a79cb2273cdc816411b75221ca1fa/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/623a79cb2273cdc816411b75221ca1fa/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/195357de4de7bc189e04dfd0f10e1055/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/195357de4de7bc189e04dfd0f10e1055/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd780cb6535200de5268d7bde44c5b3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd780cb6535200de5268d7bde44c5b3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f92e69a8a4c6520141e6b3e954ea9de3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f92e69a8a4c6520141e6b3e954ea9de3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/95be751dcc3c0f2b32f74be293637f4b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/95be751dcc3c0f2b32f74be293637f4b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/99c878fc5b53d2cf1eb963b4e0cb12d1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/99c878fc5b53d2cf1eb963b4e0cb12d1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5600f233132db7fbd07a2421671c0f22/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5600f233132db7fbd07a2421671c0f22/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0ca2015f6190472196c73c7ff525ec31/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0ca2015f6190472196c73c7ff525ec31/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0a2dcf0471daebde59c31c7217c5422f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0a2dcf0471daebde59c31c7217c5422f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b16d4247416d6a189e7a6c5ceb871287/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b16d4247416d6a189e7a6c5ceb871287/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/798e867137746d03767aeb5af57f2043/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/798e867137746d03767aeb5af57f2043/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05254bbdee027846350d3a3d3cd4a6d1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05254bbdee027846350d3a3d3cd4a6d1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/40cea6cd0c883744908ceeb0ff7eb7c6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/40cea6cd0c883744908ceeb0ff7eb7c6/AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
+activity#io.ionic.starter.MainActivity
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:12:9-124
+	android:value
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:12:66-121
+	android:name
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:12:20-65
+meta-data#com.google.android.gms.version
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:13:9-122
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5600f233132db7fbd07a2421671c0f22/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5600f233132db7fbd07a2421671c0f22/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:13:66-119
+	android:name
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:13:20-65
+uses-sdk
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:15:5-74
+INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:15:5-74
+MERGED from [:tbxml-android:] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/tbxml-android.aar/7f8065ab9614b31b6c84fe61fdc90801/AndroidManifest.xml:7:5-9:41
+MERGED from [:tbxml-android:] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/tbxml-android.aar/7f8065ab9614b31b6c84fe61fdc90801/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/623a79cb2273cdc816411b75221ca1fa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/623a79cb2273cdc816411b75221ca1fa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/195357de4de7bc189e04dfd0f10e1055/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/195357de4de7bc189e04dfd0f10e1055/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd780cb6535200de5268d7bde44c5b3/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd780cb6535200de5268d7bde44c5b3/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f92e69a8a4c6520141e6b3e954ea9de3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f92e69a8a4c6520141e6b3e954ea9de3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/95be751dcc3c0f2b32f74be293637f4b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/95be751dcc3c0f2b32f74be293637f4b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/99c878fc5b53d2cf1eb963b4e0cb12d1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/99c878fc5b53d2cf1eb963b4e0cb12d1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5600f233132db7fbd07a2421671c0f22/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5600f233132db7fbd07a2421671c0f22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0ca2015f6190472196c73c7ff525ec31/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0ca2015f6190472196c73c7ff525ec31/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0a2dcf0471daebde59c31c7217c5422f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0a2dcf0471daebde59c31c7217c5422f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:27.1.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/920cf90239981d28cc056b4cc675268b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/920cf90239981d28cc056b4cc675268b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b16d4247416d6a189e7a6c5ceb871287/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b16d4247416d6a189e7a6c5ceb871287/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/798e867137746d03767aeb5af57f2043/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/798e867137746d03767aeb5af57f2043/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05254bbdee027846350d3a3d3cd4a6d1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05254bbdee027846350d3a3d3cd4a6d1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/40cea6cd0c883744908ceeb0ff7eb7c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/40cea6cd0c883744908ceeb0ff7eb7c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dd3e746e2de53026dce3bb218abadd34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dd3e746e2de53026dce3bb218abadd34/AndroidManifest.xml:20:5-44
+MERGED from [:CordovaLib] /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cc4a39a0082e2ea39b47684666635ba1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cc4a39a0082e2ea39b47684666635ba1/AndroidManifest.xml:20:5-44
+INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:15:5-74
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd780cb6535200de5268d7bde44c5b3/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:15:42-71
+	android:minSdkVersion
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:15:15-41
+		INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:17:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:18:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:19:22-76
+uses-feature#android.hardware.location.gps
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:20:19-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:21:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/623a79cb2273cdc816411b75221ca1fa/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/623a79cb2273cdc816411b75221ca1fa/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:21:22-76
+uses-feature#0x00020000
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:22:5-78
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/623a79cb2273cdc816411b75221ca1fa/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/623a79cb2273cdc816411b75221ca1fa/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:22:19-51
+	android:required
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:22:52-75
+uses-feature#android.hardware.location
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:23:5-62
+	android:name
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:23:19-59
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/src/main/AndroidManifest.xml:24:22-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd780cb6535200de5268d7bde44c5b3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0ca2015f6190472196c73c7ff525ec31/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0ca2015f6190472196c73c7ff525ec31/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0a2dcf0471daebde59c31c7217c5422f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0a2dcf0471daebde59c31c7217c5422f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b16d4247416d6a189e7a6c5ceb871287/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b16d4247416d6a189e7a6c5ceb871287/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/798e867137746d03767aeb5af57f2043/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/798e867137746d03767aeb5af57f2043/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05254bbdee027846350d3a3d3cd4a6d1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05254bbdee027846350d3a3d3cd4a6d1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/40cea6cd0c883744908ceeb0ff7eb7c6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/40cea6cd0c883744908ceeb0ff7eb7c6/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd780cb6535200de5268d7bde44c5b3/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7bd780cb6535200de5268d7bde44c5b3/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f92e69a8a4c6520141e6b3e954ea9de3/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f92e69a8a4c6520141e6b3e954ea9de3/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f92e69a8a4c6520141e6b3e954ea9de3/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /opt/gradle/gradle-4.9/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f92e69a8a4c6520141e6b3e954ea9de3/AndroidManifest.xml:24:13-79
