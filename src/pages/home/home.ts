@@ -319,16 +319,7 @@ export class HomePage {
   }
 
   goToWaze(){
-    let destination = this.dataEmergency[this.dataEmergency.length -1];
-    let options: LaunchNavigatorOptions = {
-      start: [this.origin.lat, this.origin.lng],
-      app: this.launchNavigator.APP.WAZE
-    }
-    this.launchNavigator.navigate([destination.latitude, destination.longitude], options)
-      .then(
-        success => console.log('Launched navigator'),
-        error => console.log('Error launching navigator', error)
-      )
+    window.location.href="https://www.waze.com/ul?ll=40.75889500%2C-73.98513100&navigate=yes&zoom=17";
   }
 
   getIconMaps(){

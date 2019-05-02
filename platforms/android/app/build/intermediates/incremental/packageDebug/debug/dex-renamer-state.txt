@@ -1,4 +1,4 @@
-#Tue Apr 16 14:27:40 ART 2019
-base.0=/home/ein/Documentos/cdt/urg/urgmaps-m/urgmaps-mobile/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Thu May 02 10:03:47 ART 2019
+base.0=/home/nicolas-atorino/Desktop/urgMaps/FrontEnd/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
